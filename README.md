@@ -290,16 +290,6 @@ Document preprocessing rules, selected features, random seeds, model configurati
 
 ---
 
-## 👥 Contributors
-
-This project was developed collaboratively by:
-
-- **Ehtesham** — Database management, Python programming, initial data preprocessing, and machine learning implementation.
-- **Sami** — Machine learning model development, model selection, tuning, and data visualization.
-- **Ayush** — Visualization techniques, business understanding, and interpretation of customer insights.
-
----
-
 ## 📌 Conclusion
 
 Retail Customer Segmentation demonstrates how unsupervised machine learning can be applied to customer analytics to explore patterns in purchasing behavior and other relevant customer attributes.
